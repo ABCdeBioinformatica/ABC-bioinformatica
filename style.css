@@ -140,7 +140,7 @@ header a:hover{
         rgb(0, 0,0, 0.5)
     );
     color: rgb(22, 21, 21);
-    background-image: url("RNAseq.png");
+    background-image: url("heatmap.png");
 }
 
 .carta:nth-child(3){
