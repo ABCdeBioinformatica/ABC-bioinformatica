@@ -149,8 +149,8 @@ header a:hover{
         rgb(0, 0,0, 0.5)
         rgb(0, 0,0, 0.5)
     );
-    color: rgb(214, 211, 211);
-    background-image: url("tidyverse.jpg");
+    color: rgb(22, 21, 21);
+    background-image: url("R-estadistica.webp");
     background-size: contain;
 }
 
@@ -160,7 +160,8 @@ header a:hover{
         rgb(0, 0,0, 0.5)
         rgb(0, 0,0, 0.5)
     );
-    background-image: url("");
+    color: rgb(179, 167, 167);
+    background-image: url("tidyverse.jpg");
 }
 
 #caracteristicas .container{
